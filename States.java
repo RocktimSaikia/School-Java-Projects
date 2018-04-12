@@ -1,5 +1,8 @@
 package All_Sates;
-
+/*
+A basic program to show all states of India
+and a simple function to check every Capital of each states as well 
+*/
 import java.util.Arrays;
 import java.util.Scanner;
 
